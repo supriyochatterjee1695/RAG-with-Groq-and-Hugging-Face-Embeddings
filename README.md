@@ -125,9 +125,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 
-Supriyo – CSeametry  
-Website: https://cseametry.co.in  
-LinkedIn: https://www.linkedin.com  
+Supriyo – CSeametry
+Email: supriyochatterjee@cseametry.co.in
+Website: https://cseametry.co.in
 
 ---
 
